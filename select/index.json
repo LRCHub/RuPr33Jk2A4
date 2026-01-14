@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Where Is the Love?",
+  "base_artist": "The Black Eyed Peas",
+  "createdAt": "2026-01-14T01:55:21.047226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Where Is the Love",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/01_Where_Is_the_Love_Travis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Where Is The Love",
+      "artist": "Overnite",
+      "has_synced": true,
+      "path": "select/02_Where_Is_The_Love_Overnite.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Where Is The Love",
+      "artist": "Stonebwoy",
+      "has_synced": true,
+      "path": "select/03_Where_Is_The_Love_Stonebwoy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Where Is the Love",
+      "artist": "SWV",
+      "has_synced": false,
+      "path": "select/04_Where_Is_the_Love_SWV.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Where Is the Love",
+      "artist": "Max Romeo",
+      "has_synced": false,
+      "path": "select/05_Where_Is_the_Love_Max_Romeo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Where Is the Love",
+      "artist": "Romeo, Max",
+      "has_synced": false,
+      "path": "select/06_Where_Is_the_Love_Romeo,_Max.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where Is the Love",
+      "artist": "Robert Brookins",
+      "has_synced": false,
+      "path": "select/07_Where_Is_the_Love_Robert_Brookins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Where Is The Love",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/08_Where_Is_The_Love_VA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Where Is The Love",
+      "artist": "Blackeyed Peas",
+      "has_synced": true,
+      "path": "select/09_Where_Is_The_Love_Blackeyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where is the Love",
+      "artist": "Gizmo Varillas",
+      "has_synced": true,
+      "path": "select/10_Where_is_the_Love_Gizmo_Varillas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where Is the Love",
+      "artist": "Roberta Flack",
+      "has_synced": true,
+      "path": "select/11_Where_Is_the_Love_Roberta_Flack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Where Is the Love",
+      "artist": "Jesse",
+      "has_synced": true,
+      "path": "select/12_Where_Is_the_Love_Jesse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where is the Love",
+      "artist": "Salatiel",
+      "has_synced": true,
+      "path": "select/13_Where_is_the_Love_Salatiel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Where Is The Love",
+      "artist": "Celine Dion",
+      "has_synced": true,
+      "path": "select/14_Where_Is_The_Love_Celine_Dion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Where Is The Love",
+      "artist": "Roberta Flack",
+      "has_synced": true,
+      "path": "select/15_Where_Is_The_Love_Roberta_Flack.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Where Is the Love",
+      "artist": "Donny Hathaway",
+      "has_synced": true,
+      "path": "select/16_Where_Is_the_Love_Donny_Hathaway.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Where Is The Love",
+      "artist": "Liza Minnelli",
+      "has_synced": false,
+      "path": "select/17_Where_Is_The_Love_Liza_Minnelli.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Where Is The Love",
+      "artist": "Pop",
+      "has_synced": false,
+      "path": "select/18_Where_Is_The_Love_Pop.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Where Is The Love?",
+      "artist": "The Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/pl_01_Where_Is_The_Love_The_Black_Eyed_Peas.txt"
+    }
+  ]
+}
